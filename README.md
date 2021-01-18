@@ -17,4 +17,5 @@
 
 - npx create-react-app my-project-name
 - Firebase Google
+- npm i material-ui/core
 
