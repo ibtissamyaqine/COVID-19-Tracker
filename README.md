@@ -20,3 +20,4 @@
 - npm i material-ui/core
 - npm i react-chartjs-2 
 - npm i numeral
+- npm i react-leaflet
