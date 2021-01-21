@@ -90,10 +90,6 @@ function App() {
                 ))
               }
 
-              {/* <MenuItem value="worldwide">WorldWide</MenuItem>
-              <MenuItem value="worldwide">Option two</MenuItem>
-              <MenuItem value="worldwide">Option tree</MenuItem>
-              <MenuItem value="worldwide">Option four</MenuItem> */}
             </Select>
           </FormControl>
         </div>
